@@ -28,7 +28,7 @@
 
 - 💬&nbsp; Feel free to connect!
 
-- 📫&nbsp; **darshan.jain.work@gmail.com**
+- 📫&nbsp; **work.darshanjain@gmail.com**
 
 - 📄&nbsp; <a href="https://drive.google.com/file/d/1tZictT-WwnDIRun9VLwfL5RGCugs5oyb/view?usp=share_link" target="_blank">Resume</a>
 
