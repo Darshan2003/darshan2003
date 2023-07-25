@@ -41,7 +41,6 @@
 
 ###
 
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=darshan2003&label=Profile%20views&color=blueviolet&style=flat" alt="Profile view service is probably down :(" /> 
 </p>
