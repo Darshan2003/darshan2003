@@ -30,7 +30,7 @@
 
 - 📫&nbsp; **work.darshanjain@gmail.com**
 
-- 📄&nbsp; <a href="https://drive.google.com/file/d/1tZictT-WwnDIRun9VLwfL5RGCugs5oyb/view?usp=share_link" target="_blank">Resume</a>
+- 📄&nbsp; <a href="https://drive.google.com/file/d/1kUWEB9CTlcJEnnY9B7ttNLfqNGTTpwZs/view?usp=drive_link" target="_blank">Resume</a>
 
 ###
 <div align="left">
