@@ -44,3 +44,8 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=darshan2003&label=Profile%20views&color=blueviolet&style=flat" alt="Profile view service is probably down :(" /> 
 </p>
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Darshan2003&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight" alt="Darshan2003" />  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Darshan2003&show_icons=true&count_private=true&theme=tokyonight&hide_rank=true" alt="Darshan2003" />
+</p>
